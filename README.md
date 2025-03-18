@@ -1,10 +1,12 @@
 <p align="center" width="300">
-  <img align="center" width="100" src="assets/lll-icon.png" />
+  <img align="center" width="100" src="/carlosjulian-removebg.png"" />
   <h3 align="center">!Hola! Soy <a href="https://carlosjulian.mx" target="_blank">Carlos Julián </a> 👋 </h3>  
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlosjulianmx/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://carlosjulian.mx)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://fisimat.com.mx)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ingtelecto.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/carlosjuliandev)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-E60101?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@carlosjulian)
 
